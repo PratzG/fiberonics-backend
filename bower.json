@@ -1,0 +1,18 @@
+{
+  "name": "fiberonics-backend",
+  "authors": [
+    "Pratyush Gosain <pratz.gosain@gmai.com>"
+  ],
+  "description": "sandbox 1",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
